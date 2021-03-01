@@ -1,0 +1,15 @@
+{
+  "github": {
+    "silent": true
+  },
+  "rewrites": [
+    {
+      "source": "/realities",
+      "destination": "https://realities.platoproject.org/"
+    },
+    {
+      "source": "/ideas",
+      "destination": "https://dreams.wtf/"
+    }
+  ]
+}
