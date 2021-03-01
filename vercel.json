@@ -10,6 +10,10 @@
     {
       "source": "/ideas",
       "destination": "https://dreams.wtf/"
+    },
+    {
+      "source": "/",
+      "destination": "https://www.platoproject.org/"
     }
   ]
 }
