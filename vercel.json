@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/realities",
-      "destination": "https://realities.platoproject.org/"
+      "destination": "https://realities-ui.platoproject.org/"
     },
     {
       "source": "/ideas",
